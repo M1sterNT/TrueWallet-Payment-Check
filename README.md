@@ -1,7 +1,8 @@
 # TrueWallet-Payment-Check
 PHP Script ที่จะเช็คเลขอ้างอิงของ TrueWallet และสามารถเพิ่มพ้อยได้ถ้าหากเช็คเลขอ้างอิงสำเร็จ และสามารถป้องกันการปั้มเลขอ้างอิงได้ รวมถึงสามารถส่ง Signature ได้
-# คำเตือน!
-ณ เวลาปัจจุบัน บริษัท ทรูมันนี่ จำกัด ไม่ได้อนุญาติให้ใช้ TrueWallet ในเชิงธุระกิจ สามารถใข้ได้เฉพาะส่วนบุคคลเท่านั้น ซึ่ง PHP Script นี้มีสิทธิ์เสี่ยงที่จะถูกแบล็คลิสต์บัตรประชาชนได้ หากโดนแบล็คลิสต์ขึ้นมา กระผมไม่รับผิดชอบใดๆทั้งสิ้น
+# Warning!
+###### ณ เวลาปัจจุบัน บริษัท ทรูมันนี่ จำกัด ไม่ได้อนุญาติให้ใช้ TrueWallet ในเชิงธุระกิจ สามารถใช้ได้เฉพาะส่วนบุคคลเท่านั้น ซึ่ง PHP Script นี้มีสิทธิ์เสี่ยงที่จะถูกแบล็คลิสต์บัตรประชาชนได้ หากโดนแบล็คลิสต์ขึ้นมา กระผม(MrTheBank)ไม่รับผิดชอบใดๆทั้งสิ้น
+###### At this time, True Money Co, Ltd is not allowed to use TrueWallet for business purpose, It can be used only for personal use. This PHP script can risk to get your national ID card blacklisted. If you get blacklisted, I(MrTheBank) do not take any responsibility.
 # Requirements
 1. Basic Knowledge of PHP and MySQL
 2. PHP Version 5.6+
